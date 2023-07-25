@@ -49,6 +49,7 @@ function Appbar() {
                             window.location = "/";
                         }}
                     >Logout</Button>
+                    
                 </div>
             </div>
         </div>
